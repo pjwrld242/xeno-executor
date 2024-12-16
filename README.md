@@ -46,8 +46,7 @@ Xeno Executor is crafted for Roblox enthusiasts who want to enhance their gamepl
 ---
 
 ## 🛠️ **Requirements**
-
-- **Windows OS**: Compatible with Windows 7 and above.  
+ 
 - Roblox installed and updated.  
 - A reliable internet connection.  
 
