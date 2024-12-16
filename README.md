@@ -63,11 +63,7 @@ Your security is our top priority!
 
 ## 🌌 **Screenshots**
 
-<img src="https://via.placeholder.com/600x300" alt="Xeno Executor Interface" width="600">  
-_Sleek and intuitive interface for effortless script execution._  
 
-<img src="https://via.placeholder.com/600x300" alt="Xeno Executor in Action" width="600">  
-_Experience seamless script execution with Xeno Executor._  
 
 ---
 
